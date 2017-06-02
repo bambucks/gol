@@ -16,7 +16,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
  * GameController.java
- * Controller to navigate the buttons on the game pages
+ * Controller to navigate the buttons on the. game pages
  */
 @Controller
 @RequestMapping("/game")
